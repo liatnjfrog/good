@@ -299,3 +299,7 @@ GoodReporterExample.attributes = {
     name: 'good-reporter-example'
 }
 ```
+
+
+
+https://bintray.net/liatnjfrog/generic/package1/view#release
