@@ -302,4 +302,3 @@ GoodReporterExample.attributes = {
 
 
 
-[ ![Download](https://api.bintray.net/packages/org-1201/deb-flat/package1/images/download.svg) ](https://bintray.net/org-1201/deb-flat/package1/_latestVersion)
